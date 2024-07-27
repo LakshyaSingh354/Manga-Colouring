@@ -1,0 +1,6 @@
+*.p
+*.keras
+logs
+logs/*
+outputs
+outputs/*
