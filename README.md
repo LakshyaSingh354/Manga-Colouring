@@ -30,9 +30,9 @@ The model performs fairly well with mse of 0.0012, mae of 0.0034 and psnr of 37.
 Below are some results that are indicative of how the model performs on manga-esque art.
 
 <div>
-<img src='outputs/output3.png' width=50%> <br>
-<img src='outputs/output1.png' width=50%> <br>
-<img src='outputs/output6.png' width=50%> <br>
+<img src='outputs/output3.png' width=60%> <br>
+<img src='outputs/output1.png' width=60%> <br>
+<img src='outputs/output6.png' width=60%> <br>
 </div>
 
 ### Interpretation and improvements:
