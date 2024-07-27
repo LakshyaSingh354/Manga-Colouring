@@ -37,7 +37,7 @@ Below are some results that are indicative of how the model performs on manga-es
 
 ### Interpretation and improvements:
 
-The model is correctly able to identify the areas to colour but lack the diversity in colours, this can be improved by training on a larger dataset.
+The model is correctly able to identify the areas to colour but not the correct colours in many instances, which can be due to the lack in diversity in colours in the dataset, this should be improved by training on a larger dataset.
 
-This performance is definitely not on par with the performance on ImageNet which demonstrate the need for Generative architectures. For anyone intersted in that can refer to the paper [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) by Isola et al.
+This performance is definitely not on par with the performance on ImageNet which demonstrate the need for Generative architectures. For anyone intersted in that, can refer to the paper [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) by Isola et al.
 
