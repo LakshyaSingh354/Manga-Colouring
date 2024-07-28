@@ -4,7 +4,7 @@ from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint, TensorBoa
 from dataset_utils import create_dataset
 from model_utils import *
 
-train_ds, train_paths, val_ds, val_paths = create_dataset('images', batch_size=2)
+train_ds, train_paths, val_ds, val_paths = create_dataset('images', batch_size=64)
 
 model = ColourNet()
 
